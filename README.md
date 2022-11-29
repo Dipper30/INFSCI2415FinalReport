@@ -30,7 +30,7 @@ Five colored lines represent top 5 players in each regular season.
       - Lebron James: 2 times
       - James Harden: 2 times
 
-2. However, some names in the list are lind of counterintuitive. For example, Kyrie Irvine in 2021-2022 season, who was ranked first with respect to the impacts on games, despite the fact that his team did not receive a sound result last year.
+2. However, some names in the list are kind of counterintuitive. For example, Kyrie Irvine in 2021-2022 season, who was ranked first with respect to the impacts on games, despite the fact that his team did not receive a sound result last year.
 
 3. Point guards can also be rated high in defensive ratings because they are only compared to same positions in the game. That explains why Stephen Curry and Kyrie Irvine were both named 3 times in the list.
 
